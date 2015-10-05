@@ -22,7 +22,7 @@ fi
 
 connect ()
 #
-# hit an endpoint ${SAMPLESIZE} amount of times and get the IP it resolved to and the Time to First Byte (TTFVB)
+# hit an endpoint ${SAMPLESIZE} amount of times and get the IP it resolved to and the Time to First Byte (TTFB)
 #
 {
 	i=0
